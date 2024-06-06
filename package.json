@@ -1,0 +1,13 @@
+{
+  "name": "sac-ci",
+  "version": "1.0.0",
+  "description": "Continuous Integration exercise using Github Actions",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Success\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
