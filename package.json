@@ -4,6 +4,7 @@
   "description": "Continuous Integration exercise using Github Actions",
   "main": "./src/index.js",
   "scripts": {
+    "build": "exit 0",
     "start": "node ./src/index.js",
     "test": "echo \"Success\" && exit 0"
   },
